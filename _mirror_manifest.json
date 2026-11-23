@@ -1,0 +1,86 @@
+{
+  "tool": "mirror100",
+  "version": "1.1.0",
+  "source": "https://www.igloo.inc/",
+  "origin": "https://www.igloo.inc",
+  "subpath": "",
+  "pages": 5,
+  "files": 9,
+  "bytes": 24717,
+  "missing_on_origin": [
+    {
+      "url": "https://www.igloo.inc/assets/images/social.jpg",
+      "status": 0
+    },
+    {
+      "url": "https://www.igloo.inc/assets/App3D-d68cb154.js",
+      "status": 0
+    }
+  ],
+  "skipped": [],
+  "downloaded": {
+    "https://www.igloo.inc/": {
+      "file": "index.html",
+      "bytes": 1278,
+      "status": 200,
+      "content_type": "text/html",
+      "sha256": "3209de1c9da2c22340be711d10711b8530efed52b561a7474b5dda05318a14b5"
+    },
+    "https://www.igloo.inc/sitemap.xml": {
+      "file": "sitemap.xml",
+      "bytes": 1278,
+      "status": 200,
+      "content_type": "text/html",
+      "sha256": "3209de1c9da2c22340be711d10711b8530efed52b561a7474b5dda05318a14b5"
+    },
+    "https://www.igloo.inc/robots.txt": {
+      "file": "robots.txt",
+      "bytes": 23,
+      "status": 200,
+      "content_type": "text/plain",
+      "sha256": "3a125e84a637dc3f5442bb6949fa200056f37db4627b4c2a3addc55bbb89b703"
+    },
+    "https://www.igloo.inc/llms.txt": {
+      "file": "llms.txt",
+      "bytes": 1278,
+      "status": 200,
+      "content_type": "text/html",
+      "sha256": "3209de1c9da2c22340be711d10711b8530efed52b561a7474b5dda05318a14b5"
+    },
+    "https://www.igloo.inc/sitemap_index.xml": {
+      "file": "sitemap_index.xml",
+      "bytes": 1278,
+      "status": 200,
+      "content_type": "text/html",
+      "sha256": "3209de1c9da2c22340be711d10711b8530efed52b561a7474b5dda05318a14b5"
+    },
+    "https://www.igloo.inc/assets/favicon32-af94112f.png": {
+      "file": "assets/favicon32-af94112f.png",
+      "bytes": 1245,
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "af94112fc5434cf459408199a16496ba22fb5cbb4abe9846c07c4bceb5d53af6"
+    },
+    "https://www.igloo.inc/assets/favicon16-9e4401be.png": {
+      "file": "assets/favicon16-9e4401be.png",
+      "bytes": 513,
+      "status": 200,
+      "content_type": "image/png",
+      "sha256": "9e4401be6c2b882cb66fe17db943257bb81391f767294e18da9f7ceafb2f2310"
+    },
+    "https://www.igloo.inc": {
+      "file": "index.html",
+      "bytes": 1278,
+      "status": 200,
+      "content_type": "text/html",
+      "sha256": "3209de1c9da2c22340be711d10711b8530efed52b561a7474b5dda05318a14b5"
+    },
+    "https://www.igloo.inc/assets/index-2e130bc1.js": {
+      "file": "assets/index-2e130bc1.js",
+      "bytes": 16546,
+      "status": 200,
+      "content_type": "application/javascript",
+      "sha256": "65da799bca47bbc9b308199e344b981e07bd3e648fa2ad39697bf0400cf4a8c2"
+    }
+  }
+}
